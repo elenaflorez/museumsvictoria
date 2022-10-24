@@ -1,27 +1,28 @@
 <template>
 	<div class="content">
 
-		<!-- Map addition -->
 		<div class="parent">
             <img class="image1" src="@/Images/Simple_world_map.png" />
-            <span @click="setValue" class="dot image2"></span>
+            <span @click="setLocality('Germany')" class="dot image2"></span>
         </div>
 
-        <input type="text" placeholder="Search" class="search-input" v-model="searchValue"/>
-		{{ searchValue }}
+        <input type="text" placeholder="Search" class="search-input" v-model="localityValue"/>
+		{{ localityValue }}
+		{{ categoryValue }}
         {{ searchURL }}
+		<button @click="setCategory('First Peoples')">First Peoples</button>
 
-        <button @click="getEvents">Search</button>
+        <button @click="getItems">Search</button>
 
 		<p v-if="$fetchState.pending"> <span class="loading"></span></p>
-		<p v-else-if="$fetchState.error">Error while fetching events</p>
+		<p v-else-if="$fetchState.error">Error while fetching items</p>
             
 		<ul v-else class="list-group">
-			<li v-for="event in events" :key="event.id" class="list-group-item">
-				<p><NuxtLink class="pagelink" :to="event.id">
-					{{ event.displayTitle }}
+			<li v-for="item in items" :key="item.id" class="list-group-item">
+				<p><NuxtLink class="pagelink" :to="item.id">
+					{{ item.displayTitle }}
 				</NuxtLink></p>
-				<p>Category: {{ event.category }}, Discipline: {{ event.discipline }}, Classifications: {{ event.classifications }}</p>
+				<p>Category: {{ item.category }}, Discipline: {{ item.discipline }}, Classifications: {{ item.classifications }}</p>
 			</li>
 		</ul>
 
@@ -33,41 +34,41 @@
 import { throws } from 'assert';
 
 export default {
-	//data will return an array
 	data() {
 		return {
-			//empty array to be filled
-			events: [],
-            searchValue: '',
+			items: [],
+            localityValue: '',
+			categoryValue: '',
             searchURL: '',
-            apiURL: 'https://collections.museumsvictoria.com.au/api/search?locality=',
+            apiURL: 'https://collections.museumsvictoria.com.au/api/search?',
 		}
 	},
     methods: {
-		async setValue() {
-			this.searchValue = 'Germany'
+		async setLocality(locality) {
+			let baseString = '&locality='
+			this.localityValue = baseString.concat(locality)
 		},
-        async getEvents () {
-            // this.searchValue='HAHA YOU SPRUNG MY TRAP'
+		async setCategory(category) {
+			let baseString = '&category='
+			this.categoryValue = baseString.concat(category)
+		},
+        async getItems () {
             // apiURL = 'https://collections.museumsvictoria.com.au/api/search?recordtype='
-            this.searchURL = this.apiURL.concat(this.searchValue)
+			// https://collections.museumsvictoria.com.au/api/search?category=First Peoples&perpage=100&page=20
+			let query = this.localityValue.concat(this.categoryValue)
+            this.searchURL = this.apiURL.concat(query)
             let apiData = await fetch(this.searchURL)
 		.then((response) =>
 			response.json()
 		)
-		// // create empty araay
-		let yearArr = [];
-		//loop through events/events array
+		let Arr = [];
 		for (let i = 0; i < apiData.length; i++) {
-            yearArr.push(apiData[i]);
+            Arr.push(apiData[i]);
 		} 
-		//now set events to be the yearArray 
-		this.events = yearArr;
+		this.items = Arr;
         }
     },
-	//now go get the data
 	async fetch() {
-		//make the api call and fill the empty events array
 		
 	},
 	computed: {

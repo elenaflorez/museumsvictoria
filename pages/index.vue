@@ -1,60 +1,8 @@
 <template>
 	<div class="container">
-		<SiteNavigation />
-		<section class="bannerContainer">
-        	<img class="bannerImage" src="@/Images/BannerImage.png" alt="Banner" />
-        	<div class="bannerText">
-          		<h1 class="titleText">Canberra Modern</h1>
-          		<h2 class="titleText">Conservation through participation </h2>
-        	</div>
-    	</section>
-
-		<!-- START TESTING -->
-		<!-- <EventbyYear /> THIS WORKS AND ITS GOOD -->
-
-		<!-- <input type="text" placeholder="Search" class="search-input" v-model="searchValue"/>
-		{{ searchValue }} -->
-		
-		<!-- <h4>TESTING FIELD</h4>
-		<TestingSearch /> -->
-
-		<h4>MAP</h4>
-		<Map />
 
 		<h4>TESTING SEARCH</h4>
 		<TestingSearchCombo />
-
-		<!-- <TestingSpecies /> -->
-
-		<!-- END TESTING -->
-		<h2>Showcase Events</h2>
-		<section class = "eventsContainer">
-			<article>
-				<NuxtLink class="pagelink" :to="'/events/gala-the-dressmaker-1950s-vintage-ball-at-the-nfsa'">
-					<img class="eventImage" src="@/Images/Canberra Modern Presents 1.png" alt="Banner" />
-					<p>Love to dress up? - The Dressmaker 1950s Vintage Ball at the NFSA</p>
-				</NuxtLink>
-			</article>
-			
-
-			<article>
-				<NuxtLink class="pagelink" :to="'/events/cocktails-talk-martinis-at-manning-clark-house'">
-					<img class="eventImage" src="@/Images/Canberra Modern Presents 2.png" alt="Banner" />
-					<p>Love to go out? - Martinis at Manning Clark House</p>
-				</NuxtLink>
-			</article>
-
-			<article>
-				<NuxtLink class="pagelink" :to="'/events/talk-australians-and-the-marimekko-mystique-1954-75'">
-					<img class="eventImage" src="@/Images/Canberra Modern Presents 3.png" alt="Banner" />
-					<p>Love history and design? - Australians and the Marimekko Mystique</p>
-				</NuxtLink>
-			</article>
-		</section>
-		<h2>Upcoming Events</h2>
-		<ShowcaseEvents />
-
-		<Social />
 
 	</div>
 </template>
@@ -71,7 +19,7 @@ export default {
 </script>
 
 <style>
-/* TESTING */
+/* NEW STYLE */
 .search-input {
 	width: 200px; 
 	height:30px;
@@ -102,7 +50,7 @@ export default {
   left: 20%;
   border: 1px green solid;
 }
-/* END TESTING */
+/* END NEW STYLE */
 * {
 	font-family: Futura;
 }
