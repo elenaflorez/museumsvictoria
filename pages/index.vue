@@ -94,6 +94,7 @@ export default {
   top: 0;
   left: 0;
   border: 1px red solid;
+  max-width:100%
 }
 .image2 {
   position: absolute;

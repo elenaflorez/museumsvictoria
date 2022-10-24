@@ -4,21 +4,24 @@
 		<!-- Map addition -->
 		<div class="parent">
             <img class="image1" src="@/Images/Simple_world_map.png" />
-            <span class="dot image2"></span>
+            <span @click="setValue" class="dot image2"></span>
         </div>
 
         <input type="text" placeholder="Search" class="search-input" v-model="searchValue"/>
 		{{ searchValue }}
         {{ searchURL }}
 
-        <button @click="getEvents">Refresh</button>
+        <button @click="getEvents">Search</button>
 
 		<p v-if="$fetchState.pending"> <span class="loading"></span></p>
 		<p v-else-if="$fetchState.error">Error while fetching events</p>
             
 		<ul v-else class="list-group">
 			<li v-for="event in events" :key="event.id" class="list-group-item">
-				{{ event }}
+				<p><NuxtLink class="pagelink" :to="event.id">
+					{{ event.displayTitle }}
+				</NuxtLink></p>
+				<p>Category: {{ event.category }}, Discipline: {{ event.discipline }}, Classifications: {{ event.classifications }}</p>
 			</li>
 		</ul>
 
@@ -41,9 +44,9 @@ export default {
 		}
 	},
     methods: {
-		// async setValue() {
-		// 	this.searchValue = Germany
-		// },
+		async setValue() {
+			this.searchValue = 'Germany'
+		},
         async getEvents () {
             // this.searchValue='HAHA YOU SPRUNG MY TRAP'
             // apiURL = 'https://collections.museumsvictoria.com.au/api/search?recordtype='
