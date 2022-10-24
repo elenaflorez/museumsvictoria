@@ -1,0 +1,1212 @@
+{
+    "recordType": "species",
+    "licence": {
+        "name": "Attribution 4.0 International",
+        "shortName": "CC BY",
+        "uri": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "dateModified": "2022-05-11T07:43:00Z",
+    "displayTitle": "<em>Pogona vitticeps</em> (Ahl, 1926), Central Bearded Dragon",
+    "animalType": "Lizards",
+    "animalSubType": "Dragon lizards",
+    "colours": [
+        "Brown",
+        "Yellow"
+    ],
+    "maximumSize": "",
+    "habitats": [
+        "Mallee"
+    ],
+    "whereToLook": [],
+    "whenActive": [],
+    "nationalParks": [
+        "Neds Corner"
+    ],
+    "diet": "Carnivore",
+    "dietCategories": [
+        "Insects",
+        "Invertebrates"
+    ],
+    "fastFact": null,
+    "habitat": "Dry areas including woodlands.",
+    "distribution": "Central and eastern mainland Australia.",
+    "biology": "Central Bearded Dragons are active during the day, eating insects, small lizards, fruits and flowers. They are semi-arboreal, often seen sitting up on dead vegetation, on spinifex grass hummocks or up in small trees. Females lay up to 25 eggs in a clutch. Like the Bearded Dragon, they will often flee to a nearby burrow under a pile of dead vegetation when disturbed and will spread their spiny beards to reveal a pink inner mouth when they are threatened.",
+    "generalDescription": "Body with lines of ordered spines on the sides between the front and hind legs. Barbed scales under the chin form a 'beard'. Up to 25 cm long (snout-vent).",
+    "briefId": "Spines in rows along side of body, spiny 'beard' below neck.",
+    "hazards": null,
+    "endemicity": "Native to Australia",
+    "commercial": null,
+    "conservationStatuses": [
+        "CITES: Not listed",
+        "FFG Threatened List: Not listed",
+        "EPBC Act 1999: Not listed",
+        "IUCN Red List: Least Concern"
+    ],
+    "web": null,
+    "plants": [],
+    "flightStart": null,
+    "flightEnd": null,
+    "depths": [],
+    "waterColumnLocations": [],
+    "relatedItemIds": [],
+    "relatedSpecimenIds": [
+        "specimens/353088"
+    ],
+    "relatedArticleIds": [
+        "articles/14374"
+    ],
+    "relatedSpeciesIds": [],
+    "authors": [
+        {
+            "firstName": null,
+            "lastName": null,
+            "fullName": "Museums Victoria Staff",
+            "biography": null,
+            "profileImage": null
+        }
+    ],
+    "yearWritten": "2010",
+    "media": [
+        {
+            "type": "image",
+            "alternativeText": "Dragon lizard, belly flat to ground.",
+            "large": {
+                "width": 3000,
+                "height": 2002,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/21/1043421-large.jpg",
+                "size": 745372
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1001,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/21/1043421-medium.jpg",
+                "size": 161428
+            },
+            "small": {
+                "width": 749,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/21/1043421-small.jpg",
+                "size": 50963
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/21/1043421-thumbnail.jpg",
+                "size": 7777
+            },
+            "id": "media/1043421",
+            "dateModified": "2022-04-20T04:37:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Wyperfeld National Park, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Dragon lizard, belly flat to ground.",
+            "large": {
+                "width": 3000,
+                "height": 3000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/1043419-large.jpg",
+                "size": 648401
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/1043419-medium.jpg",
+                "size": 144138
+            },
+            "small": {
+                "width": 500,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/1043419-small.jpg",
+                "size": 25280
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/1043419-thumbnail.jpg",
+                "size": 7551
+            },
+            "id": "media/1043419",
+            "dateModified": "2022-04-20T04:37:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Wyperfeld National Park, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Dragon lizard clinging to branch.",
+            "large": {
+                "width": 3000,
+                "height": 2002,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/39/1043439-large.jpg",
+                "size": 895332
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1001,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/39/1043439-medium.jpg",
+                "size": 220298
+            },
+            "small": {
+                "width": 749,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/39/1043439-small.jpg",
+                "size": 80515
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/39/1043439-thumbnail.jpg",
+                "size": 14542
+            },
+            "id": "media/1043439",
+            "dateModified": "2022-04-20T04:37:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Wyperfeld National Park, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Dragon lizard clinging to branch.",
+            "large": {
+                "width": 3000,
+                "height": 2002,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/1043445-large.jpg",
+                "size": 1165362
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1001,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/1043445-medium.jpg",
+                "size": 286793
+            },
+            "small": {
+                "width": 749,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/1043445-small.jpg",
+                "size": 99144
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/1043445-thumbnail.jpg",
+                "size": 15392
+            },
+            "id": "media/1043445",
+            "dateModified": "2022-04-20T04:37:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Wyperfeld National Park, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Dragon lizard flattened on white ground, head up.",
+            "large": {
+                "width": 1829,
+                "height": 1029,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/13/1043413-large.jpg",
+                "size": 204382
+            },
+            "medium": {
+                "width": 1500,
+                "height": 844,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/13/1043413-medium.jpg",
+                "size": 100970
+            },
+            "small": {
+                "width": 889,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/13/1043413-small.jpg",
+                "size": 43791
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/13/1043413-thumbnail.jpg",
+                "size": 5248
+            },
+            "id": "media/1043413",
+            "dateModified": "2022-04-20T04:37:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Wyperfeld National Park, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Dragon lizard flattened on white ground.",
+            "large": {
+                "width": 3000,
+                "height": 2002,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/15/1043415-large.jpg",
+                "size": 383832
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1001,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/15/1043415-medium.jpg",
+                "size": 84417
+            },
+            "small": {
+                "width": 749,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/15/1043415-small.jpg",
+                "size": 27331
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/15/1043415-thumbnail.jpg",
+                "size": 4792
+            },
+            "id": "media/1043415",
+            "dateModified": "2022-04-20T04:37:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Wyperfeld National Park, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Detail of bearded dragon head, side view.",
+            "large": {
+                "width": 3000,
+                "height": 2354,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/868419-large.jpg",
+                "size": 1381968
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1177,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/868419-medium.jpg",
+                "size": 308068
+            },
+            "small": {
+                "width": 637,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/868419-small.jpg",
+                "size": 73937
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/868419-thumbnail.jpg",
+                "size": 13232
+            },
+            "id": "media/868419",
+            "dateModified": "2022-04-20T04:50:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Ned's Corner, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Brown lizard lying along a branch.",
+            "large": {
+                "width": 3000,
+                "height": 2000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/11/868411-large.jpg",
+                "size": 1453254
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/11/868411-medium.jpg",
+                "size": 296757
+            },
+            "small": {
+                "width": 750,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/11/868411-small.jpg",
+                "size": 76723
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/11/868411-thumbnail.jpg",
+                "size": 9395
+            },
+            "id": "media/868411",
+            "dateModified": "2022-04-20T04:50:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Ned's Corner, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Sidew view of lizard head and chest lying on branch.",
+            "large": {
+                "width": 3000,
+                "height": 2203,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/5/868405-large.jpg",
+                "size": 1325629
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1101,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/5/868405-medium.jpg",
+                "size": 323686
+            },
+            "small": {
+                "width": 681,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/5/868405-small.jpg",
+                "size": 83767
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/5/868405-thumbnail.jpg",
+                "size": 12843
+            },
+            "id": "media/868405",
+            "dateModified": "2022-04-20T04:50:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Ned's Corner, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Close up of bearded dragon's head against black background.",
+            "large": {
+                "width": 3000,
+                "height": 2000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/49/868399-large.jpg",
+                "size": 1030169
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/49/868399-medium.jpg",
+                "size": 228922
+            },
+            "small": {
+                "width": 750,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/49/868399-small.jpg",
+                "size": 73909
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/49/868399-thumbnail.jpg",
+                "size": 10908
+            },
+            "id": "media/868399",
+            "dateModified": "2022-04-20T04:50:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Ned's Corner, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Face-on view of yellow-brown bearded dragon.",
+            "large": {
+                "width": 3000,
+                "height": 2000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/1/868401-large.jpg",
+                "size": 935344
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/1/868401-medium.jpg",
+                "size": 189243
+            },
+            "small": {
+                "width": 750,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/1/868401-small.jpg",
+                "size": 64451
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/1/868401-thumbnail.jpg",
+                "size": 10901
+            },
+            "id": "media/868401",
+            "dateModified": "2022-04-20T04:50:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Ned's Corner, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Brown lizard standing on branch, head up, against black background.",
+            "large": {
+                "width": 2000,
+                "height": 3000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/17/868417-large.jpg",
+                "size": 1153023
+            },
+            "medium": {
+                "width": 1000,
+                "height": 1500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/17/868417-medium.jpg",
+                "size": 269941
+            },
+            "small": {
+                "width": 333,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/17/868417-small.jpg",
+                "size": 35433
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/17/868417-thumbnail.jpg",
+                "size": 9693
+            },
+            "id": "media/868417",
+            "dateModified": "2022-04-20T04:50:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Ned's Corner, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "The head of a Central Bearded Dragon.",
+            "large": {
+                "width": 1280,
+                "height": 891,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/27/360327-large.jpg",
+                "size": 344899
+            },
+            "medium": {
+                "width": 1280,
+                "height": 891,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/27/360327-medium.jpg",
+                "size": 240974
+            },
+            "small": {
+                "width": 718,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/27/360327-small.jpg",
+                "size": 94226
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/27/360327-thumbnail.jpg",
+                "size": 16324
+            },
+            "id": "media/360327",
+            "dateModified": "2015-11-09T00:34:00Z",
+            "caption": "Central Bearded Dragon, <em>Pogona vitticeps</em>.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "David Paul / dpimages"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright David Paul / All Rights Reserved",
+            "licence": {
+                "name": "All Rights Reserved",
+                "shortName": "All Rights Reserved",
+                "uri": ""
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "A Central Bearded Dragon climbing up a tree trunk.",
+            "large": {
+                "width": 765,
+                "height": 1280,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/26/360326-large.jpg",
+                "size": 338464
+            },
+            "medium": {
+                "width": 765,
+                "height": 1280,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/26/360326-medium.jpg",
+                "size": 237385
+            },
+            "small": {
+                "width": 299,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/26/360326-small.jpg",
+                "size": 46742
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/26/360326-thumbnail.jpg",
+                "size": 14771
+            },
+            "id": "media/360326",
+            "dateModified": "2015-11-09T00:34:00Z",
+            "caption": "Central Bearded Dragon, <em>Pogona vitticeps</em>.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "David Paul / dpimages"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright David Paul / All Rights Reserved",
+            "licence": {
+                "name": "All Rights Reserved",
+                "shortName": "All Rights Reserved",
+                "uri": ""
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Detail of hind foot of brown-yellow lizard.",
+            "large": {
+                "width": 3000,
+                "height": 2000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/9/868409-large.jpg",
+                "size": 1571832
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/9/868409-medium.jpg",
+                "size": 373307
+            },
+            "small": {
+                "width": 750,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/9/868409-small.jpg",
+                "size": 118766
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/9/868409-thumbnail.jpg",
+                "size": 15201
+            },
+            "id": "media/868409",
+            "dateModified": "2022-04-20T04:50:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Ned's Corner, Victoria.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Pale lizard with spiny beard.",
+            "large": {
+                "width": 3000,
+                "height": 1844,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/981348-large.jpg",
+                "size": 979852
+            },
+            "medium": {
+                "width": 1500,
+                "height": 922,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/981348-medium.jpg",
+                "size": 232843
+            },
+            "small": {
+                "width": 813,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/981348-small.jpg",
+                "size": 83375
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/981348-thumbnail.jpg",
+                "size": 10389
+            },
+            "id": "media/981348",
+            "dateModified": "2021-03-02T03:06:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Melbourne Museum.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Central Bearded Dragon.",
+            "large": {
+                "width": 3000,
+                "height": 2281,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/981346-large.jpg",
+                "size": 1130560
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1140,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/981346-medium.jpg",
+                "size": 269759
+            },
+            "small": {
+                "width": 658,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/981346-small.jpg",
+                "size": 69053
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/981346-thumbnail.jpg",
+                "size": 12141
+            },
+            "id": "media/981346",
+            "dateModified": "2021-03-02T02:49:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Melbourne Museum.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Dragon lizard held in hand.",
+            "large": {
+                "width": 3000,
+                "height": 2000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/966597-large.jpg",
+                "size": 472045
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/966597-medium.jpg",
+                "size": 106216
+            },
+            "small": {
+                "width": 750,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/966597-small.jpg",
+                "size": 39005
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/966597-thumbnail.jpg",
+                "size": 10621
+            },
+            "id": "media/966597",
+            "dateModified": "2022-04-20T05:19:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Neds Corner, Victoria.",
+            "creators": [
+                "Photographer: Mark Norman"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution 4.0 International",
+                "shortName": "CC BY",
+                "uri": "https://creativecommons.org/licenses/by/4.0"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Dragon lizard held in hand.",
+            "large": {
+                "width": 3000,
+                "height": 2000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/966598-large.jpg",
+                "size": 930009
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/966598-medium.jpg",
+                "size": 193384
+            },
+            "small": {
+                "width": 750,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/966598-small.jpg",
+                "size": 66974
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/966598-thumbnail.jpg",
+                "size": 14740
+            },
+            "id": "media/966598",
+            "dateModified": "2022-04-20T05:19:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Neds Corner, Victoria.",
+            "creators": [
+                "Photographer: Mark Norman"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution 4.0 International",
+                "shortName": "CC BY",
+                "uri": "https://creativecommons.org/licenses/by/4.0"
+            }
+        },
+        {
+            "type": "uri",
+            "uri": "https://museumvictoria.com.au/discoverycentre/museum-victoria-apps/mv-field-guide-to-victoria-app/",
+            "id": "media/900123",
+            "dateModified": "2019-02-18T02:28:00Z",
+            "caption": "Get the free MV Field Guide to Victorian Fauna app for Apple and Android devices",
+            "creators": [],
+            "sources": [],
+            "credit": null,
+            "rightsStatement": null,
+            "licence": {
+                "name": "All Rights Reserved",
+                "shortName": "All Rights Reserved",
+                "uri": ""
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Central Bearded Dragon.",
+            "large": {
+                "width": 3000,
+                "height": 3000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/16/981366-large.jpg",
+                "size": 1366106
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/16/981366-medium.jpg",
+                "size": 304251
+            },
+            "small": {
+                "width": 500,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/16/981366-small.jpg",
+                "size": 55186
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/16/981366-thumbnail.jpg",
+                "size": 15667
+            },
+            "id": "media/981366",
+            "dateModified": "2021-03-02T02:49:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Melbourne Museum.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Central Bearded Dragon.",
+            "large": {
+                "width": 3000,
+                "height": 1630,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/12/981362-large.jpg",
+                "size": 1013216
+            },
+            "medium": {
+                "width": 1500,
+                "height": 815,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/12/981362-medium.jpg",
+                "size": 242119
+            },
+            "small": {
+                "width": 920,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/12/981362-small.jpg",
+                "size": 107254
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/12/981362-thumbnail.jpg",
+                "size": 11075
+            },
+            "id": "media/981362",
+            "dateModified": "2021-03-02T02:49:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Melbourne Museum.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Central Bearded Dragon.",
+            "large": {
+                "width": 3000,
+                "height": 3000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/6/981356-large.jpg",
+                "size": 1791731
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/6/981356-medium.jpg",
+                "size": 406295
+            },
+            "small": {
+                "width": 500,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/6/981356-small.jpg",
+                "size": 65343
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/6/981356-thumbnail.jpg",
+                "size": 16762
+            },
+            "id": "media/981356",
+            "dateModified": "2021-03-02T02:49:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Melbourne Museum.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Central Bearded Dragon.",
+            "large": {
+                "width": 3000,
+                "height": 2393,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/8/981358-large.jpg",
+                "size": 1507424
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1196,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/8/981358-medium.jpg",
+                "size": 351026
+            },
+            "small": {
+                "width": 627,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/8/981358-small.jpg",
+                "size": 76181
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/8/981358-thumbnail.jpg",
+                "size": 13068
+            },
+            "id": "media/981358",
+            "dateModified": "2021-03-02T02:49:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Melbourne Museum.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Central Bearded Dragon.",
+            "large": {
+                "width": 3000,
+                "height": 2214,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/0/981350-large.jpg",
+                "size": 839254
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1107,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/0/981350-medium.jpg",
+                "size": 206899
+            },
+            "small": {
+                "width": 677,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/0/981350-small.jpg",
+                "size": 61046
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/0/981350-thumbnail.jpg",
+                "size": 11938
+            },
+            "id": "media/981350",
+            "dateModified": "2021-03-02T02:49:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Melbourne Museum.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Central Bearded Dragon.",
+            "large": {
+                "width": 3000,
+                "height": 2195,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/24/981374-large.jpg",
+                "size": 627544
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1098,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/24/981374-medium.jpg",
+                "size": 143815
+            },
+            "small": {
+                "width": 683,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/24/981374-small.jpg",
+                "size": 45415
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/24/981374-thumbnail.jpg",
+                "size": 9769
+            },
+            "id": "media/981374",
+            "dateModified": "2021-03-02T02:49:00Z",
+            "caption": "<em>Pogona vitticeps</em>, Central Bearded Dragon. Melbourne Museum.",
+            "creators": [
+                "Photographer: David Paul"
+            ],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Copyright Museums Victoria / CC BY-NC",
+            "licence": {
+                "name": "Attribution-NonCommercial 4.0 International",
+                "shortName": "CC BY-NC",
+                "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        }
+    ],
+    "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "subphylum": "Vertebrata",
+        "superclass": null,
+        "class": "Reptilia",
+        "subclass": "Lepidosauria",
+        "superorder": null,
+        "order": "Squamata",
+        "suborder": "Sauria lacertilia",
+        "infraorder": "Iguania",
+        "superfamily": null,
+        "family": "Agamidae",
+        "subfamily": null,
+        "genus": "Pogona",
+        "subgenus": null,
+        "species": "vitticeps",
+        "subspecies": null,
+        "author": "(Ahl, 1926)",
+        "code": "ICZN",
+        "taxonName": "Pogona vitticeps",
+        "commonName": "Central Bearded Dragon",
+        "otherCommonNames": []
+    },
+    "id": "species/8375"
+}
