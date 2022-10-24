@@ -18,6 +18,9 @@
 		<!-- <h4>TESTING FIELD</h4>
 		<TestingSearch /> -->
 
+		<h4>MAP</h4>
+		<Map />
+
 		<h4>TESTING SEARCH</h4>
 		<TestingSearchCombo />
 
@@ -73,6 +76,30 @@ export default {
 	width: 200px; 
 	height:30px;
 	border-radius: 2px;
+}
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+}
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px red solid;
+}
+.image2 {
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  border: 1px green solid;
 }
 /* END TESTING */
 * {

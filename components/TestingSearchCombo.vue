@@ -1,7 +1,12 @@
 <template>
 	<div class="content">
 
-        <!-- Filtering List idea -->
+		<!-- Map addition -->
+		<div class="parent">
+            <img class="image1" src="@/Images/Simple_world_map.png" />
+            <span class="dot image2"></span>
+        </div>
+
         <input type="text" placeholder="Search" class="search-input" v-model="searchValue"/>
 		{{ searchValue }}
         {{ searchURL }}
@@ -32,10 +37,13 @@ export default {
 			events: [],
             searchValue: '',
             searchURL: '',
-            apiURL: 'https://collections.museumsvictoria.com.au/api/search?recordtype=',
+            apiURL: 'https://collections.museumsvictoria.com.au/api/search?locality=',
 		}
 	},
     methods: {
+		// async setValue() {
+		// 	this.searchValue = Germany
+		// },
         async getEvents () {
             // this.searchValue='HAHA YOU SPRUNG MY TRAP'
             // apiURL = 'https://collections.museumsvictoria.com.au/api/search?recordtype='
