@@ -2,19 +2,19 @@
 	<div class="container">
 
 		<h4>TESTING SEARCH</h4>
-		<TestingSearchCombo />
+		<Search />
 
 	</div>
 </template>
 
 <script>
-import TestingSearchCombo from '../components/TestingSearchCombo.vue';
+import Search from '../components/Search.vue';
 export default {
     name: "IndexPage",
     data: () => ({
         searchValue: "",
     }),
-    components: { TestingSearchCombo }
+    components: { Search }
 }
 </script>
 
