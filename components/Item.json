@@ -1,0 +1,2401 @@
+{
+    "recordType": "item",
+    "comments": [],
+    "licence": {
+        "name": "Attribution 4.0 International",
+        "shortName": "CC BY",
+        "uri": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "dateModified": "2022-06-29T05:46:00Z",
+    "displayTitle": "Photograph Album - Boer War, circa 1902",
+    "category": "History & Technology",
+    "discipline": "Technology",
+    "type": "Image",
+    "registrationNumber": "ST 40357",
+    "collectionNames": [
+        "Military Memorabilia Collection"
+    ],
+    "collectingAreas": [
+        "Public Life & Institutions"
+    ],
+    "classifications": [
+        "Military history",
+        "Service",
+        "Albums"
+    ],
+    "objectName": "Photograph Album - Boer War, circa 1902",
+    "objectSummary": "Hard-covered photograph album containing 74 black and white photographs. Inscribed on front page 'M.G.A. Warner'. Belonged to Sister Mabel Ashton Warner, who served in Queen Alexandra's Royal Nursing Service.\n\nPhotographs are glued into album, and are generally very faded. Some appear commercially-produced; others are rough and amateurish (for example, not cut straight).\n\nThe album contains many copyright official photos of the Boer War, Spion Kop memorial, armoured train, hospital trains, horse drawn field ambulance unit, nurses, wards, stretcher bearers, groups of soldiers, block-houses, camps, etc. Several images show interior of Kimberley Military Hospital medical and surgical wards. Includes an image of 'self' with two other nurses. Several are dated 1902.\n\nKimberley Military Hospital was hospital no.11 during the Boer War. Kimberley is the capital city of the province of Northern Cape, South Africa. It was beseiged during the Boer War, from 14 October 1899 to 15 February 1900.",
+    "physicalDescription": "Hard-covered photograph album containing 74 black and white photographs.",
+    "inscription": "Inscribed on front page 'M.G.A. Warner'. \nOn sticker inside back cover: 'D(?)ARTER BROS. & WALTON / CAPE TOWN'.",
+    "associations": [
+        {
+            "type": "Past Owner",
+            "name": "Sister Mabel A. Warner",
+            "date": "circa 1902",
+            "comments": "Approximate date, based on dates of Boer War",
+            "streetAddress": null,
+            "locality": null,
+            "region": null,
+            "state": null,
+            "country": null
+        },
+        {
+            "type": "Place Depicted",
+            "name": null,
+            "date": null,
+            "comments": "Place photographs taken",
+            "streetAddress": null,
+            "locality": "Kimberley",
+            "region": null,
+            "state": "Northern Cape",
+            "country": "South Africa"
+        },
+        {
+            "type": "Place Made",
+            "name": null,
+            "date": null,
+            "comments": "Place album manufactured.",
+            "streetAddress": null,
+            "locality": "Cape Town",
+            "region": null,
+            "state": null,
+            "country": "South Africa"
+        }
+    ],
+    "keywords": [
+        "Boer War, 1899-1902"
+    ],
+    "significance": null,
+    "modelScale": null,
+    "shape": null,
+    "dimensions": [
+        {
+            "configuration": "Overall Dimensions",
+            "dimensions": null,
+            "comments": null
+        }
+    ],
+    "references": null,
+    "bibliographies": [],
+    "modelNames": [],
+    "brands": [],
+    "relatedItemIds": [],
+    "relatedSpecimenIds": [],
+    "relatedArticleIds": [],
+    "relatedSpeciesIds": [],
+    "media": [
+        {
+            "type": "image",
+            "alternativeText": "Cover of photograph album.",
+            "large": {
+                "width": 3000,
+                "height": 2000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/719795-large.jpg",
+                "size": 1103244
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/719795-medium.jpg",
+                "size": 236036
+            },
+            "small": {
+                "width": 750,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/719795-small.jpg",
+                "size": 61904
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/719795-thumbnail.jpg",
+                "size": 8925
+            },
+            "id": "media/719795",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Inside page of photo album with hand-written name.",
+            "large": {
+                "width": 3000,
+                "height": 2000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/719796-large.jpg",
+                "size": 809131
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/719796-medium.jpg",
+                "size": 137015
+            },
+            "small": {
+                "width": 750,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/719796-small.jpg",
+                "size": 30193
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/719796-thumbnail.jpg",
+                "size": 3754
+            },
+            "id": "media/719796",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": "Photograph on album page.",
+            "large": {
+                "width": 3000,
+                "height": 2606,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/49/719799-large.jpg",
+                "size": 1123362
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1303,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/49/719799-medium.jpg",
+                "size": 196875
+            },
+            "small": {
+                "width": 576,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/49/719799-small.jpg",
+                "size": 29031
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/49/719799-thumbnail.jpg",
+                "size": 5971
+            },
+            "id": "media/719799",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2622,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/1/719801-large.jpg",
+                "size": 1441154
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1311,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/1/719801-medium.jpg",
+                "size": 294750
+            },
+            "small": {
+                "width": 572,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/1/719801-small.jpg",
+                "size": 48172
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/1/719801-thumbnail.jpg",
+                "size": 10374
+            },
+            "id": "media/719801",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2637,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/3/719803-large.jpg",
+                "size": 1397229
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1318,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/3/719803-medium.jpg",
+                "size": 287096
+            },
+            "small": {
+                "width": 569,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/3/719803-small.jpg",
+                "size": 45427
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/3/719803-thumbnail.jpg",
+                "size": 9632
+            },
+            "id": "media/719803",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2571,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/5/719805-large.jpg",
+                "size": 1460707
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1285,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/5/719805-medium.jpg",
+                "size": 298550
+            },
+            "small": {
+                "width": 583,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/5/719805-small.jpg",
+                "size": 48901
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/5/719805-thumbnail.jpg",
+                "size": 10249
+            },
+            "id": "media/719805",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2586,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/7/719807-large.jpg",
+                "size": 1380146
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1293,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/7/719807-medium.jpg",
+                "size": 279182
+            },
+            "small": {
+                "width": 580,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/7/719807-small.jpg",
+                "size": 45907
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/7/719807-thumbnail.jpg",
+                "size": 9794
+            },
+            "id": "media/719807",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2574,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/9/719809-large.jpg",
+                "size": 1549250
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1287,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/9/719809-medium.jpg",
+                "size": 300338
+            },
+            "small": {
+                "width": 583,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/9/719809-small.jpg",
+                "size": 48150
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/9/719809-thumbnail.jpg",
+                "size": 9574
+            },
+            "id": "media/719809",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2574,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/11/719811-large.jpg",
+                "size": 1214710
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1287,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/11/719811-medium.jpg",
+                "size": 246617
+            },
+            "small": {
+                "width": 583,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/11/719811-small.jpg",
+                "size": 44087
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/11/719811-thumbnail.jpg",
+                "size": 9770
+            },
+            "id": "media/719811",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2609,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/13/719813-large.jpg",
+                "size": 1485672
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1304,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/13/719813-medium.jpg",
+                "size": 288425
+            },
+            "small": {
+                "width": 575,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/13/719813-small.jpg",
+                "size": 44949
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/13/719813-thumbnail.jpg",
+                "size": 9425
+            },
+            "id": "media/719813",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2558,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/15/719815-large.jpg",
+                "size": 1262208
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1279,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/15/719815-medium.jpg",
+                "size": 244523
+            },
+            "small": {
+                "width": 586,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/15/719815-small.jpg",
+                "size": 37933
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/15/719815-thumbnail.jpg",
+                "size": 7105
+            },
+            "id": "media/719815",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2616,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/17/719817-large.jpg",
+                "size": 1563052
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1308,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/17/719817-medium.jpg",
+                "size": 311709
+            },
+            "small": {
+                "width": 573,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/17/719817-small.jpg",
+                "size": 48140
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/17/719817-thumbnail.jpg",
+                "size": 9998
+            },
+            "id": "media/719817",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2607,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/719819-large.jpg",
+                "size": 1182765
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1303,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/719819-medium.jpg",
+                "size": 255789
+            },
+            "small": {
+                "width": 575,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/719819-small.jpg",
+                "size": 46005
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/19/719819-thumbnail.jpg",
+                "size": 10151
+            },
+            "id": "media/719819",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2568,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/21/719821-large.jpg",
+                "size": 1593462
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1284,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/21/719821-medium.jpg",
+                "size": 298381
+            },
+            "small": {
+                "width": 584,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/21/719821-small.jpg",
+                "size": 45515
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/21/719821-thumbnail.jpg",
+                "size": 9135
+            },
+            "id": "media/719821",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2579,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/23/719823-large.jpg",
+                "size": 1357612
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1290,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/23/719823-medium.jpg",
+                "size": 297021
+            },
+            "small": {
+                "width": 582,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/23/719823-small.jpg",
+                "size": 51001
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/23/719823-thumbnail.jpg",
+                "size": 10700
+            },
+            "id": "media/719823",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2455,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/25/719825-large.jpg",
+                "size": 1198103
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1228,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/25/719825-medium.jpg",
+                "size": 239677
+            },
+            "small": {
+                "width": 611,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/25/719825-small.jpg",
+                "size": 47886
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/25/719825-thumbnail.jpg",
+                "size": 10674
+            },
+            "id": "media/719825",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2649,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/27/719827-large.jpg",
+                "size": 1345931
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1324,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/27/719827-medium.jpg",
+                "size": 299032
+            },
+            "small": {
+                "width": 566,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/27/719827-small.jpg",
+                "size": 46562
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/27/719827-thumbnail.jpg",
+                "size": 10226
+            },
+            "id": "media/719827",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2645,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/29/719829-large.jpg",
+                "size": 1568329
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1322,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/29/719829-medium.jpg",
+                "size": 324232
+            },
+            "small": {
+                "width": 567,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/29/719829-small.jpg",
+                "size": 54544
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/29/719829-thumbnail.jpg",
+                "size": 12597
+            },
+            "id": "media/719829",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2672,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/31/719831-large.jpg",
+                "size": 1639953
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1336,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/31/719831-medium.jpg",
+                "size": 321645
+            },
+            "small": {
+                "width": 561,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/31/719831-small.jpg",
+                "size": 49625
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/31/719831-thumbnail.jpg",
+                "size": 11147
+            },
+            "id": "media/719831",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2633,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/33/719833-large.jpg",
+                "size": 1341055
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1317,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/33/719833-medium.jpg",
+                "size": 284065
+            },
+            "small": {
+                "width": 570,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/33/719833-small.jpg",
+                "size": 48701
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/33/719833-thumbnail.jpg",
+                "size": 11187
+            },
+            "id": "media/719833",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2212,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/35/719835-large.jpg",
+                "size": 1236709
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1106,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/35/719835-medium.jpg",
+                "size": 249012
+            },
+            "small": {
+                "width": 678,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/35/719835-small.jpg",
+                "size": 59568
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/35/719835-thumbnail.jpg",
+                "size": 12254
+            },
+            "id": "media/719835",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2651,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/37/719837-large.jpg",
+                "size": 1499077
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1326,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/37/719837-medium.jpg",
+                "size": 284927
+            },
+            "small": {
+                "width": 566,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/37/719837-small.jpg",
+                "size": 42094
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/37/719837-thumbnail.jpg",
+                "size": 9133
+            },
+            "id": "media/719837",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2678,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/39/719839-large.jpg",
+                "size": 1673941
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1339,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/39/719839-medium.jpg",
+                "size": 376741
+            },
+            "small": {
+                "width": 560,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/39/719839-small.jpg",
+                "size": 60602
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/39/719839-thumbnail.jpg",
+                "size": 13741
+            },
+            "id": "media/719839",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 2672,
+                "height": 3000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/41/719841-large.jpg",
+                "size": 1120508
+            },
+            "medium": {
+                "width": 1336,
+                "height": 1500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/41/719841-medium.jpg",
+                "size": 197856
+            },
+            "small": {
+                "width": 445,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/41/719841-small.jpg",
+                "size": 24967
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/41/719841-thumbnail.jpg",
+                "size": 6916
+            },
+            "id": "media/719841",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 2666,
+                "height": 3000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/44/719844-large.jpg",
+                "size": 1114407
+            },
+            "medium": {
+                "width": 1333,
+                "height": 1500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/44/719844-medium.jpg",
+                "size": 210930
+            },
+            "small": {
+                "width": 444,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/44/719844-small.jpg",
+                "size": 28842
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/44/719844-thumbnail.jpg",
+                "size": 8604
+            },
+            "id": "media/719844",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 2589,
+                "height": 3000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/719846-large.jpg",
+                "size": 752206
+            },
+            "medium": {
+                "width": 1295,
+                "height": 1500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/719846-medium.jpg",
+                "size": 152371
+            },
+            "small": {
+                "width": 432,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/719846-small.jpg",
+                "size": 22158
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/46/719846-thumbnail.jpg",
+                "size": 6199
+            },
+            "id": "media/719846",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2679,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/719797-large.jpg",
+                "size": 1419378
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1339,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/719797-medium.jpg",
+                "size": 278837
+            },
+            "small": {
+                "width": 560,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/719797-small.jpg",
+                "size": 45082
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/719797-thumbnail.jpg",
+                "size": 10287
+            },
+            "id": "media/719797",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2581,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/0/719800-large.jpg",
+                "size": 1336309
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1290,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/0/719800-medium.jpg",
+                "size": 212666
+            },
+            "small": {
+                "width": 581,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/0/719800-small.jpg",
+                "size": 32437
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/0/719800-thumbnail.jpg",
+                "size": 6436
+            },
+            "id": "media/719800",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2683,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/2/719802-large.jpg",
+                "size": 1527657
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1342,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/2/719802-medium.jpg",
+                "size": 262232
+            },
+            "small": {
+                "width": 559,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/2/719802-small.jpg",
+                "size": 38633
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/2/719802-thumbnail.jpg",
+                "size": 8660
+            },
+            "id": "media/719802",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2598,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/4/719804-large.jpg",
+                "size": 1327497
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1299,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/4/719804-medium.jpg",
+                "size": 268229
+            },
+            "small": {
+                "width": 577,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/4/719804-small.jpg",
+                "size": 45567
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/4/719804-thumbnail.jpg",
+                "size": 10065
+            },
+            "id": "media/719804",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 2715,
+                "height": 3000,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/6/719806-large.jpg",
+                "size": 1242003
+            },
+            "medium": {
+                "width": 1357,
+                "height": 1500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/6/719806-medium.jpg",
+                "size": 208313
+            },
+            "small": {
+                "width": 452,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/6/719806-small.jpg",
+                "size": 22697
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/6/719806-thumbnail.jpg",
+                "size": 6085
+            },
+            "id": "media/719806",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2623,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/8/719808-large.jpg",
+                "size": 951182
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1311,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/8/719808-medium.jpg",
+                "size": 213209
+            },
+            "small": {
+                "width": 572,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/8/719808-small.jpg",
+                "size": 39861
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/8/719808-thumbnail.jpg",
+                "size": 8730
+            },
+            "id": "media/719808",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2654,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/10/719810-large.jpg",
+                "size": 1068954
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1327,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/10/719810-medium.jpg",
+                "size": 208339
+            },
+            "small": {
+                "width": 565,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/10/719810-small.jpg",
+                "size": 37194
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/10/719810-thumbnail.jpg",
+                "size": 9224
+            },
+            "id": "media/719810",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2598,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/12/719812-large.jpg",
+                "size": 1494237
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1299,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/12/719812-medium.jpg",
+                "size": 291779
+            },
+            "small": {
+                "width": 577,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/12/719812-small.jpg",
+                "size": 49646
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/12/719812-thumbnail.jpg",
+                "size": 11459
+            },
+            "id": "media/719812",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2671,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/14/719814-large.jpg",
+                "size": 968226
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1335,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/14/719814-medium.jpg",
+                "size": 181077
+            },
+            "small": {
+                "width": 562,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/14/719814-small.jpg",
+                "size": 29980
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/14/719814-thumbnail.jpg",
+                "size": 6978
+            },
+            "id": "media/719814",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2602,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/16/719816-large.jpg",
+                "size": 1196483
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1301,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/16/719816-medium.jpg",
+                "size": 249019
+            },
+            "small": {
+                "width": 576,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/16/719816-small.jpg",
+                "size": 47881
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/16/719816-thumbnail.jpg",
+                "size": 11656
+            },
+            "id": "media/719816",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2713,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/18/719818-large.jpg",
+                "size": 1211158
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1356,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/18/719818-medium.jpg",
+                "size": 218129
+            },
+            "small": {
+                "width": 553,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/18/719818-small.jpg",
+                "size": 32522
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/18/719818-thumbnail.jpg",
+                "size": 7648
+            },
+            "id": "media/719818",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2592,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/20/719820-large.jpg",
+                "size": 1294687
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1296,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/20/719820-medium.jpg",
+                "size": 243541
+            },
+            "small": {
+                "width": 579,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/20/719820-small.jpg",
+                "size": 39829
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/20/719820-thumbnail.jpg",
+                "size": 8224
+            },
+            "id": "media/719820",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2656,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/22/719822-large.jpg",
+                "size": 1381894
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1328,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/22/719822-medium.jpg",
+                "size": 255392
+            },
+            "small": {
+                "width": 565,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/22/719822-small.jpg",
+                "size": 39229
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/22/719822-thumbnail.jpg",
+                "size": 8544
+            },
+            "id": "media/719822",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2644,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/24/719824-large.jpg",
+                "size": 1202578
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1322,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/24/719824-medium.jpg",
+                "size": 238665
+            },
+            "small": {
+                "width": 567,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/24/719824-small.jpg",
+                "size": 38962
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/24/719824-thumbnail.jpg",
+                "size": 7876
+            },
+            "id": "media/719824",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2695,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/26/719826-large.jpg",
+                "size": 1361209
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1347,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/26/719826-medium.jpg",
+                "size": 259324
+            },
+            "small": {
+                "width": 557,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/26/719826-small.jpg",
+                "size": 39767
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/26/719826-thumbnail.jpg",
+                "size": 9176
+            },
+            "id": "media/719826",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2609,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/28/719828-large.jpg",
+                "size": 1502288
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1304,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/28/719828-medium.jpg",
+                "size": 296480
+            },
+            "small": {
+                "width": 575,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/28/719828-small.jpg",
+                "size": 49984
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/28/719828-thumbnail.jpg",
+                "size": 11662
+            },
+            "id": "media/719828",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2674,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/30/719830-large.jpg",
+                "size": 1398085
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1337,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/30/719830-medium.jpg",
+                "size": 259453
+            },
+            "small": {
+                "width": 561,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/30/719830-small.jpg",
+                "size": 37277
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/30/719830-thumbnail.jpg",
+                "size": 8188
+            },
+            "id": "media/719830",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2627,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/32/719832-large.jpg",
+                "size": 1015946
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1313,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/32/719832-medium.jpg",
+                "size": 229115
+            },
+            "small": {
+                "width": 571,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/32/719832-small.jpg",
+                "size": 40171
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/32/719832-thumbnail.jpg",
+                "size": 8307
+            },
+            "id": "media/719832",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2681,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/34/719834-large.jpg",
+                "size": 1490799
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1341,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/34/719834-medium.jpg",
+                "size": 269646
+            },
+            "small": {
+                "width": 559,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/34/719834-small.jpg",
+                "size": 36534
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/34/719834-thumbnail.jpg",
+                "size": 7598
+            },
+            "id": "media/719834",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2619,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/36/719836-large.jpg",
+                "size": 1425841
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1310,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/36/719836-medium.jpg",
+                "size": 275146
+            },
+            "small": {
+                "width": 573,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/36/719836-small.jpg",
+                "size": 42036
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/36/719836-thumbnail.jpg",
+                "size": 8644
+            },
+            "id": "media/719836",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2680,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/38/719838-large.jpg",
+                "size": 1385044
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1340,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/38/719838-medium.jpg",
+                "size": 226704
+            },
+            "small": {
+                "width": 560,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/38/719838-small.jpg",
+                "size": 30640
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/38/719838-thumbnail.jpg",
+                "size": 6810
+            },
+            "id": "media/719838",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2652,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/40/719840-large.jpg",
+                "size": 1305955
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1326,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/40/719840-medium.jpg",
+                "size": 223474
+            },
+            "small": {
+                "width": 566,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/40/719840-small.jpg",
+                "size": 32484
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/40/719840-thumbnail.jpg",
+                "size": 6620
+            },
+            "id": "media/719840",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2637,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/42/719842-large.jpg",
+                "size": 1397817
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1318,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/42/719842-medium.jpg",
+                "size": 244460
+            },
+            "small": {
+                "width": 569,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/42/719842-small.jpg",
+                "size": 35379
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/42/719842-thumbnail.jpg",
+                "size": 7470
+            },
+            "id": "media/719842",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2653,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/43/719843-large.jpg",
+                "size": 1357286
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1326,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/43/719843-medium.jpg",
+                "size": 245200
+            },
+            "small": {
+                "width": 565,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/43/719843-small.jpg",
+                "size": 36983
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/43/719843-thumbnail.jpg",
+                "size": 7989
+            },
+            "id": "media/719843",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2645,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/719845-large.jpg",
+                "size": 1182569
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1323,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/719845-medium.jpg",
+                "size": 201022
+            },
+            "small": {
+                "width": 567,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/719845-small.jpg",
+                "size": 28719
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/45/719845-thumbnail.jpg",
+                "size": 5884
+            },
+            "id": "media/719845",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2669,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/719847-large.jpg",
+                "size": 1510139
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1334,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/719847-medium.jpg",
+                "size": 278128
+            },
+            "small": {
+                "width": 562,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/719847-small.jpg",
+                "size": 42403
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/47/719847-thumbnail.jpg",
+                "size": 9301
+            },
+            "id": "media/719847",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        },
+        {
+            "type": "image",
+            "alternativeText": null,
+            "large": {
+                "width": 3000,
+                "height": 2450,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/719798-large.jpg",
+                "size": 1511990
+            },
+            "medium": {
+                "width": 1500,
+                "height": 1225,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/719798-medium.jpg",
+                "size": 341549
+            },
+            "small": {
+                "width": 612,
+                "height": 500,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/719798-small.jpg",
+                "size": 59707
+            },
+            "thumbnail": {
+                "width": 250,
+                "height": 250,
+                "uri": "https://collections.museumsvictoria.com.au/content/media/48/719798-thumbnail.jpg",
+                "size": 8668
+            },
+            "id": "media/719798",
+            "dateModified": "2021-08-30T05:51:00Z",
+            "caption": "Photograph Album - Boer War, circa 1902",
+            "creators": [],
+            "sources": [
+                "Museums Victoria"
+            ],
+            "credit": null,
+            "rightsStatement": "Public Domain",
+            "licence": {
+                "name": "Public Domain Mark",
+                "shortName": "Public Domain",
+                "uri": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+        }
+    ],
+    "acquisitionInformation": "Donation from Miss Thekla Kirchner, 03 Jun 1986",
+    "acknowledgement": null,
+    "museumLocation": null,
+    "archeologyContextNumber": null,
+    "archeologySite": null,
+    "archeologyDescription": null,
+    "archeologyDistinguishingMarks": null,
+    "archeologyActivity": null,
+    "archeologySpecificActivity": null,
+    "archeologyDecoration": null,
+    "archeologyPattern": null,
+    "archeologyColour": null,
+    "archeologyMoulding": null,
+    "archeologyPlacement": null,
+    "archeologyForm": null,
+    "archeologyShape": null,
+    "archeologyManufactureName": null,
+    "archeologyManufactureDate": null,
+    "archeologyTechnique": null,
+    "archeologyProvenance": null,
+    "numismaticsDenomination": null,
+    "numismaticsDateIssued": null,
+    "numismaticsSeries": null,
+    "numismaticsMaterial": null,
+    "numismaticsAxis": null,
+    "numismaticsEdgeDescription": null,
+    "numismaticsObverseDescription": null,
+    "numismaticsReverseDescription": null,
+    "philatelyColour": null,
+    "philatelyDenomination": null,
+    "philatelyImprint": null,
+    "philatelyIssue": null,
+    "philatelyDateIssued": null,
+    "philatelyForm": null,
+    "philatelyOverprint": null,
+    "philatelyGibbonsNumber": null,
+    "isdFormat": "Album",
+    "isdLanguage": null,
+    "isdDescriptionOfContent": "CONTAINS MANY COPYRIGHT OFFICIAL PHOTOS OF THE BOER WAR, SPION KOP MEMORIAL ARMOURED TRAIN HOSPITAL TRAINS, HORSE DRAWN FIELD AMBULANCE UNIT. NURSES, WARDS, STRETCHER BEARERS, BLOCK-HOUSES ETC. BELONGED TO SISTER MABEL ASHTON WARNER WHO SERVED IN QUEEN\nALEXANDRA'S ROYAL NURSING SERVICE.",
+    "isdPeopleDepicted": null,
+    "audioVisualRecordingDetails": null,
+    "audioVisualContentSummaries": [],
+    "tradeLiteratureNumberofPages": null,
+    "tradeLiteraturePageSizeFormat": null,
+    "tradeLiteratureCoverTitle": null,
+    "tradeLiteraturePrimarySubject": null,
+    "tradeLiteraturePublicationDate": null,
+    "tradeLiteratureIllustrationTypes": null,
+    "tradeLiteraturePrintingTypes": null,
+    "tradeLiteraturePublicationTypes": [],
+    "tradeLiteraturePrimaryRole": null,
+    "tradeLiteraturePrimaryName": null,
+    "firstPeoplesLocalities": [],
+    "firstPeoplesCulturalGroups": [],
+    "firstPeoplesMedium": null,
+    "firstPeoplesDescription": null,
+    "firstPeoplesLocalName": null,
+    "firstPeoplesPhotographer": null,
+    "firstPeoplesAuthor": null,
+    "firstPeoplesIllustrator": null,
+    "firstPeoplesMaker": null,
+    "firstPeoplesDate": null,
+    "firstPeoplesCollector": null,
+    "firstPeoplesDateCollected": null,
+    "firstPeoplesIndividualsIdentified": null,
+    "firstPeoplesTitle": null,
+    "firstPeoplesSheets": null,
+    "firstPeoplesPages": null,
+    "firstPeoplesLetterTo": null,
+    "firstPeoplesLetterFrom": null,
+    "artworkMedium": null,
+    "artworkTechnique": null,
+    "artworkSupport": null,
+    "artworkPlateNumber": null,
+    "artworkDrawingNumber": null,
+    "artworkState": null,
+    "artworkPublisher": null,
+    "artworkPrimaryInscriptions": null,
+    "artworkSecondaryInscriptions": null,
+    "artworkTertiaryInscriptions": null,
+    "typeStatus": null,
+    "identifiedBy": null,
+    "dateIdentified": null,
+    "qualifier": null,
+    "qualifierRank": "None",
+    "taxonomy": null,
+    "id": "items/370224"
+}
