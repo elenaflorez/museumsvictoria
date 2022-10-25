@@ -55,15 +55,18 @@
 		<hr class="bar">
 
 		<!-- Allow user filter for specific title value -->
-		<section>
-			<input type="text" placeholder="Filter Results" class="search-input" v-model="userSearch" />
-			<p>Searching for: {{ localityDisplay }} {{ categoryDisplay }} {{ collectionAreaDisplay }}</p>
+		<section class="filterSearchBox">
+			<div><p>Searching for: {{ localityDisplay }} {{ categoryDisplay }} {{ collectionAreaDisplay }}</p></div>
+			<div><input type="text" placeholder="Filter Results" class="search-input" v-model="userSearch" /></div>
+			<div><button class="clear-button" @click="clear">Clear</button></div>
 		</section>
+		<hr class="bar">
 		
-		<section>
-			<p v-if="$fetchState.pending"> <span class="loading"></span></p>
-			<p v-else-if="$fetchState.error">Error while fetching items</p>
+		<p v-if="items == []">No results</p>
 
+		<section>
+			<p v-if="$fetchState.pending">Loading items...<span class="loading"></span></p>
+			<p v-else-if="$fetchState.error">Error while fetching items</p>
 			<ul v-else class="list-group">
 				<li v-for="item in items" :key="item.id" class="list-group-item">
 					<p>
@@ -71,9 +74,7 @@
 							{{ item.displayTitle }}
 						</NuxtLink>
 					</p>
-					<p>Category: {{ item.category }}, Discipline: {{ item.discipline }}, Classifications: {{
-							item.classifications
-					}}</p>
+					<p class="truncate">{{item.objectSummary}}</p>
 				</li>
 			</ul>
 		</section>
@@ -122,6 +123,17 @@ export default {
 			let baseString = '&collectingarea='
 			this.collectionAreaValue = baseString.concat(collectionarea)
 			this.collectionAreaDisplay = collectionarea
+		},
+
+		// Clears inputs 
+		async clear() {
+			this.localityValue = ''
+			this.categoryValue = ''
+			this.collectionAreaValue = ''
+			this.userSearch = ''
+			this.localityDisplay = ''
+			this.categoryDisplay = ''
+			this.collectionAreaDisplay = ''
 		},
 
 		// Runs API query and returns the results
@@ -246,7 +258,7 @@ export default {
 	padding: 16px 32px;
 }
 
-/* Button Styling */
+/* Go Button Styling */
 .go-button {
 	background-color: red;
 	padding: 15px 32px;
@@ -263,15 +275,51 @@ export default {
   color: red;
 }
 
-/* Search styling */
+/* Filter and Search Set Styling */
+.filterSearchBox {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+/* Filter Styling */
 .search-input {
 	width: 200px;
 	height: 30px;
 	border-radius: 2px;
-	display:block;
-	margin: 0 right;
+	/* display:block;
+	margin: 0 right; */
 }
 
+/* Clear Button Styling */
+.clear-button {
+	background-color: white;
+	border-color: black;
+	padding: 7px 15px;
+	border-radius: 5px;
+	display: block;
+	text-align: center;
+	color:black;
+	margin: 0 auto
+}
+
+.clear-button:hover {
+  border: 2px solid blue;
+  background-color: white;
+  color: blue;
+}
+
+/* Return Styling */
+.list-group-item .pagelink{
+	color: #539844;
+}
+
+.truncate {
+  width: 800px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 
 
 </style>
