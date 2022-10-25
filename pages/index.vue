@@ -1,10 +1,11 @@
 <template>
 	<div class="container">
+		<SiteNavigation />
+
 		<h1>H1</h1>
 		<h2>H2</h2>
 		<h3>H3</h3>
 		<h4>H4</h4>
-		<SiteNavigation />
 		<h4>SEARCH</h4>
 		<Search />
 	</div>
@@ -32,7 +33,6 @@ h1 {
 	font-weight: 950;
 	font-size: 6vw;
 	text-align: center;
-	font-family: Palatino;
 }
 
 h2 {
