@@ -1,5 +1,6 @@
 <template>
 	<div class="container">
+        <SiteNavigation />
 
         <p>Display Title: {{item.displayTitle}}</p>
         <p>Object Summary: {{item.objectSummary}}</p>

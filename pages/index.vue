@@ -1,13 +1,19 @@
 <template>
 	<div class="container">
-		<SiteNavigation />
 
-		<h1>H1</h1>
-		<h2>H2</h2>
-		<h3>H3</h3>
-		<h4>H4</h4>
-		<h4>SEARCH</h4>
-		<Search />
+		<body>
+			<header>
+				<SiteNavigation />
+			</header>
+			<article>
+				<h2>Explore a world full of possibilities</h2>
+				<h4>Explore and find what you're interested in.</h4>
+				<Search />
+			</article>
+			<footer>
+				<Social />
+			</footer>
+		</body>
 	</div>
 </template>
 
@@ -30,19 +36,15 @@ export default {
 
 /* MOBILE TEXT STYLE  */
 h1 {
-	font-weight: 950;
 	font-size: 6vw;
 	text-align: center;
 }
 
 h2 {
-	font-weight: 700;
-	font-style: italic;
 	font-size: 5vw;
 }
 
 h3 {
-	font-weight: 500;
 	font-size: 4vw;
 }
 
@@ -51,26 +53,42 @@ p {
 }
 
 @media only screen and (min-width: 800px) {
+
 	/* DESKTOP TEXT STYLE */
 	h1 {
-		font-weight: 950;
 		font-size: 4vw;
 		text-align: center;
 	}
 
 	h2 {
-		font-weight: 700;
-		font-style: italic;
 		font-size: 3vw;
 	}
 
 	h3 {
-		font-weight: 500;
 		font-size: 2.5vw;
 	}
 
 	p {
-		font-size: 2vw;
+		font-size: 1.5vw;
+	}
+
+	/* OTHER DESKTOP STYLE */
+	body {
+		min-height: 100vh;
+		margin: 0;
+
+		display: grid;
+		grid-template-rows: auto 1fr auto;
+	}
+
+	header {
+		min-height: 50px;
+		background: lightcyan;
+	}
+
+	footer {
+		min-height: 50px;
+		background: PapayaWhip;
 	}
 
 }
