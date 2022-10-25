@@ -3,8 +3,8 @@
 		
 		<!-- Map used for setting locality -->
 		<div class="parent">
-            <img class="image1" src="@/Images/Simple_world_map.png" />
-            <span @click="setLocality('Germany')" class="dot image2"></span>
+            <img class="map" src="@/Images/Simple_world_map.png" />
+            <span @click="setLocality('Germany')" class="dot germany"></span>
         </div>
 		<!-- Field used to set locality manually for testing/debugging -->
 		<input type="text" placeholder="Search" class="search-input" v-model="localityValue"/>
@@ -106,3 +106,38 @@ export default {
 	},
 }
 </script>
+
+<style>
+/* Map Styling */ 
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+}
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.map {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px red solid;
+  max-width:100%
+}
+.germany {
+  position: absolute;
+  top: 20%;
+  left: 20%;
+}
+
+/* Search styling */
+.search-input {
+	width: 200px; 
+	height:30px;
+	border-radius: 2px;
+}
+</style>
