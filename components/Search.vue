@@ -8,18 +8,39 @@
 			<img class="map" src="@/Images/Simple_world_map.png" />
 			<span @click="setLocality('Germany')" class="dot germany"></span>
 		</div>
-		<!-- Field used to set locality manually for testing/debugging -->
-		<input type="text" placeholder="Search" class="search-input" v-model="localityValue" />
 
 		<!-- Section for setting category -->
 		<h4>Then, are you interested in any of these categories?</h4>
-		<button @click="setCategory('First Peoples')">First Peoples</button>
-		<button @click="setCategory('history+%26+technology')">History and Tech</button>
+
+		<div class="imageContainer" @click="setCategory('First Peoples')">
+  			<img src="@/Images/Indigenous Australian.png" alt="First Peoples" class="image" style="width:100%">
+  			<div class="middle">
+    			<div class="text">First Peoples</div>
+			</div>
+		</div>
+
+		<div class="imageContainer" @click="setCategory('history+%26+technology')">
+  			<img src="@/Images/History and Tech.png" alt="History & Technology" class="image" style="width:100%">
+  			<div class="middle">
+    			<div class="text">History & Technology</div>
+			</div>
+		</div>
 
 		<h4>What about these?</h4>
-		<button @click="setCollectionArea('sustainable futures')">Sustainable Futures</button>
-		<button @click="setCollectionArea('migration+%26+cultural+diversity	')">Migration & Cultural Diversity</button>
-
+		<!-- CHANGE INLINE STYLE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+		<div class="imageContainer" @click="setCollectionArea('sustainable futures')">
+  			<img src="@/Images/Science.png" alt="Science" class="image" style="width:100%"> 
+  			<div class="middle">
+    			<div class="text">Sustainable Futures</div>
+			</div>
+		</div>
+		<div class="imageContainer" @click="setCollectionArea('migration+%26+cultural+diversity')">
+  			<img src="@/Images/Diversity.png" alt="Diversity" class="image" style="width:100%">
+  			<div class="middle">
+    			<div class="text">Migration & Cultural Diversity</div>
+			</div>
+		</div>
+		
 		<!-- Button for running API query -->
 		<button @click="getItems">Go!</button>
 
@@ -145,7 +166,6 @@ export default {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	border: 1px, red;
 	border-radius: 5%;
 	max-width: 100%
 }
@@ -154,6 +174,54 @@ export default {
 	position: absolute;
 	top: 20%;
 	left: 20%;
+}
+
+/* Images styling */
+
+.linkImage {
+	width:20%;
+}
+
+/*TESTING */
+
+.imageContainer {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.imageContainer:hover .image {
+  opacity: 0.3;
+}
+
+.imageContainer:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #539844;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
 }
 
 /* Search styling */
