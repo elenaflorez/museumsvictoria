@@ -2,73 +2,81 @@
 	<div class="content">
 
 		<!-- Map used for setting locality -->
-		<h4>First, select a part of the world you're interested in </h4>
-
-		<div class="parent">
-			<img class="map" src="@/Images/Simple_world_map.png" />
-			<span @click="setLocality('Germany')" class="dot germany"></span>
-		</div>
+		<section>
+			<h4>First, select a part of the world you're interested in </h4>
+			<div class="parent">
+				<img class="map" src="@/Images/Simple_world_map.png" />
+				<span @click="setLocality('Germany')" class="dot germany"></span>
+			</div>
+			<hr class="bar">
+		</section>
 
 		<!-- Section for setting category -->
-		<h4>Then, are you interested in any of these categories?</h4>
+		<section>
+			<h4>Then, are you interested in any of these categories?</h4>
+			<article class="imageBox">
+				<div class="imageContainer" @click="setCategory('First Peoples')">
+					<img src="@/Images/Indigenous Australian.png" alt="First Peoples" class="image">
+					<div class="middle">
+						<div class="text">First Peoples</div>
+					</div>
+				</div>
+				<div class="imageContainer" @click="setCategory('history+%26+technology')">
+					<img src="@/Images/History and Tech.png" alt="History & Technology" class="image">
+					<div class="middle">
+						<div class="text">History & Technology</div>
+					</div>
+				</div>
+			</article>
+			<hr class="bar">
+		</section>
 
-		<div class="imageContainer" @click="setCategory('First Peoples')">
-  			<img src="@/Images/Indigenous Australian.png" alt="First Peoples" class="image" style="width:100%">
-  			<div class="middle">
-    			<div class="text">First Peoples</div>
+		<section>
+			<h4>What about these?</h4>
+			<article class="imageBox">
+				<div class="imageContainer" @click="setCollectionArea('sustainable futures')">
+				<img src="@/Images/Science.png" alt="Science" class="image">
+				<div class="middle">
+					<div class="text">Sustainable Futures</div>
+				</div>
 			</div>
-		</div>
+			<div class="imageContainer" @click="setCollectionArea('migration+%26+cultural+diversity')">
+				<img src="@/Images/Diversity.png" alt="Diversity" class="image">
+				<div class="middle">
+					<div class="text">Migration & Cultural Diversity</div>
+				</div>
+			</div>
+			</article>
+			<hr class="bar">
+		</section>
 
-		<div class="imageContainer" @click="setCategory('history+%26+technology')">
-  			<img src="@/Images/History and Tech.png" alt="History & Technology" class="image" style="width:100%">
-  			<div class="middle">
-    			<div class="text">History & Technology</div>
-			</div>
-		</div>
-
-		<h4>What about these?</h4>
-		<!-- CHANGE INLINE STYLE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
-		<div class="imageContainer" @click="setCollectionArea('sustainable futures')">
-  			<img src="@/Images/Science.png" alt="Science" class="image" style="width:100%"> 
-  			<div class="middle">
-    			<div class="text">Sustainable Futures</div>
-			</div>
-		</div>
-		<div class="imageContainer" @click="setCollectionArea('migration+%26+cultural+diversity')">
-  			<img src="@/Images/Diversity.png" alt="Diversity" class="image" style="width:100%">
-  			<div class="middle">
-    			<div class="text">Migration & Cultural Diversity</div>
-			</div>
-		</div>
-		
 		<!-- Button for running API query -->
-		<button @click="getItems">Go!</button>
+		<button class="go-button" @click="getItems">Go!</button>
+		<hr class="bar">
 
 		<!-- Allow user filter for specific title value -->
-		<input type="text" placeholder="Filter Results" class="search-input" v-model="userSearch" />
+		<section>
+			<input type="text" placeholder="Filter Results" class="search-input" v-model="userSearch" />
+			<p>Searching for: {{ localityDisplay }} {{ categoryDisplay }} {{ collectionAreaDisplay }}</p>
+		</section>
+		
+		<section>
+			<p v-if="$fetchState.pending"> <span class="loading"></span></p>
+			<p v-else-if="$fetchState.error">Error while fetching items</p>
 
-		<!-- Outputs for debugging and testing -->
-		{{ localityValue }}
-		{{ categoryValue }}
-		{{ collectionAreaValue }}
-		{{ searchURL }}
-
-		<p v-if="$fetchState.pending"> <span class="loading"></span></p>
-		<p v-else-if="$fetchState.error">Error while fetching items</p>
-
-		<ul v-else class="list-group">
-			<li v-for="item in items" :key="item.id" class="list-group-item">
-				<p>
-					<NuxtLink class="pagelink" :to="item.id">
-						{{ item.displayTitle }}
-					</NuxtLink>
-				</p>
-				<p>Category: {{ item.category }}, Discipline: {{ item.discipline }}, Classifications: {{
-						item.classifications
-				}}</p>
-			</li>
-		</ul>
-
+			<ul v-else class="list-group">
+				<li v-for="item in items" :key="item.id" class="list-group-item">
+					<p>
+						<NuxtLink class="pagelink" :to="item.id">
+							{{ item.displayTitle }}
+						</NuxtLink>
+					</p>
+					<p>Category: {{ item.category }}, Discipline: {{ item.discipline }}, Classifications: {{
+							item.classifications
+					}}</p>
+				</li>
+			</ul>
+		</section>
 	</div>
 </template>
 
@@ -86,6 +94,11 @@ export default {
 			categoryValue: '',
 			collectionAreaValue: '',
 
+			// Display fields - to show what is being put in the query
+			localityDisplay: '',
+			categoryDisplay: '',
+			collectionAreaDisplay: '',
+
 			// Filter field - used to filter result from API
 			userSearch: '',
 
@@ -98,14 +111,17 @@ export default {
 		async setLocality(locality) {
 			let baseString = '&locality='
 			this.localityValue = baseString.concat(locality)
+			this.localityDisplay = locality
 		},
 		async setCategory(category) {
 			let baseString = '&category='
 			this.categoryValue = baseString.concat(category)
+			this.categoryDisplay = category
 		},
 		async setCollectionArea(collectionarea) {
 			let baseString = '&collectingarea='
 			this.collectionAreaValue = baseString.concat(collectionarea)
+			this.collectionAreaDisplay = collectionarea
 		},
 
 		// Runs API query and returns the results
@@ -141,7 +157,6 @@ export default {
 	},
 	async fetch() {
 		//make the api call and fill the empty events array
-
 	},
 }
 </script>
@@ -151,9 +166,15 @@ export default {
 .dot {
 	height: 25px;
 	width: 25px;
-	background-color: blue;
+	background-color: #539844;
 	border-radius: 50%;
 	display: inline-block;
+	cursor: pointer;
+	border: 1px solid red;
+}
+
+.dot:hover {
+	background-color: red;
 }
 
 .parent {
@@ -176,52 +197,70 @@ export default {
 	left: 20%;
 }
 
-/* Images styling */
+/* Images Styling */
 
-.linkImage {
-	width:20%;
+.imageBox {
+	display:flex;
+	flex-direction: row;
 }
 
-/*TESTING */
-
 .imageContainer {
-  position: relative;
-  width: 50%;
+	position: relative;
+	width: 50%;
 }
 
 .image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
+	opacity: 1;
+	display: block;
+	width: 100%;
+	height: auto;
+	transition: .5s ease;
+	backface-visibility: hidden;
 }
 
 .middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
+	transition: .5s ease;
+	opacity: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	text-align: center;
 }
 
 .imageContainer:hover .image {
-  opacity: 0.3;
+	opacity: 0.3;
+	cursor: pointer;
 }
 
 .imageContainer:hover .middle {
-  opacity: 1;
+	opacity: 1;
+	cursor: pointer;
 }
 
 .text {
-  background-color: #539844;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
+	background-color: #539844;
+	color: white;
+	font-size: 16px;
+	padding: 16px 32px;
+}
+
+/* Button Styling */
+.go-button {
+	background-color: red;
+	padding: 15px 32px;
+	border-radius: 5px;
+	display: block;
+	text-align: center;
+	color:white;
+	margin: 0 auto
+}
+
+.go-button:hover {
+  border: 2px solid red;
+  background-color: white;
+  color: red;
 }
 
 /* Search styling */
@@ -229,5 +268,10 @@ export default {
 	width: 200px;
 	height: 30px;
 	border-radius: 2px;
+	display:block;
+	margin: 0 right;
 }
+
+
+
 </style>

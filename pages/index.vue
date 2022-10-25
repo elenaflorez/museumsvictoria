@@ -5,11 +5,14 @@
 			<header>
 				<SiteNavigation />
 			</header>
-			<article>
+			<section class="intro">
 				<h2>Explore a world full of possibilities</h2>
-				<h4>Explore and find what you're interested in.</h4>
+				<h4>Explore and find what you're interested in</h4>
+				<hr class="bar">
+			</section>
+			<section>
 				<Search />
-			</article>
+			</section>
 			<footer>
 				<Social />
 			</footer>
@@ -50,6 +53,15 @@ h3 {
 
 p {
 	font-size: 3vw;
+}
+
+/* Intro styling  */
+.intro {
+	padding-top:20px;
+	text-align:center;
+}
+.bar {
+	border-top: 1px solid #539844;
 }
 
 @media only screen and (min-width: 800px) {
