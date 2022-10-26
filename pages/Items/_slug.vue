@@ -16,7 +16,7 @@
 
 				<!-- Filter for related items -->
 				<article>
-					<p>Follow your interest</p>
+					<p>Follow your interest!</p>
 					<button class="linkButton" @click="getItems('&category='.concat(item.category))">Category:
 						{{ item.category }}</button>
 					<button class="linkButton" @click="getItems('&locality='.concat(item.locality))">Locality:
@@ -74,7 +74,7 @@ export default {
 			if (input == '&category=History & Technology') {
 				input = '&category=history+%26+technology'
 			}
-			
+
 			// General API search URL
 			let apiURL = 'https://collections.museumsvictoria.com.au/api/search?recordtype=item&perpage=10' // can use recordtype, perpage, and page
 

@@ -3,7 +3,7 @@
 
 		<!-- Map used for setting locality -->
 		<section>
-			<h4>First, select a part of the world you're interested in </h4>
+			<h2>First, select a part of the world</h2>
 			<div class="parent">
 				<img class="map" src="@/Images/Simple_world_map.png" />
 				<span @click="setLocality('Germany')" class="dot germany"></span>
@@ -13,7 +13,7 @@
 
 		<!-- Section for setting category -->
 		<section>
-			<h4>Then, are you interested in any of these categories?</h4>
+			<h2>Then, are you interested in any of these categories?</h2>
 			<article class="imageBox">
 				<div class="imageContainer" @click="setCategory('First Peoples')">
 					<img src="@/Images/Indigenous Australian.png" alt="First Peoples" class="image">
@@ -32,20 +32,20 @@
 		</section>
 
 		<section>
-			<h4>What about these?</h4>
+			<h2>What about these?</h2>
 			<article class="imageBox">
 				<div class="imageContainer" @click="setCollectionArea('sustainable futures')">
-				<img src="@/Images/Science.png" alt="Science" class="image">
-				<div class="middle">
-					<div class="text">Sustainable Futures</div>
+					<img src="@/Images/Science.png" alt="Science" class="image">
+					<div class="middle">
+						<div class="text">Sustainable Futures</div>
+					</div>
 				</div>
-			</div>
-			<div class="imageContainer" @click="setCollectionArea('migration+%26+cultural+diversity')">
-				<img src="@/Images/Diversity.png" alt="Diversity" class="image">
-				<div class="middle">
-					<div class="text">Migration & Cultural Diversity</div>
+				<div class="imageContainer" @click="setCollectionArea('migration+%26+cultural+diversity')">
+					<img src="@/Images/Diversity.png" alt="Diversity" class="image">
+					<div class="middle">
+						<div class="text">Migration & Cultural Diversity</div>
+					</div>
 				</div>
-			</div>
 			</article>
 			<hr class="bar">
 		</section>
@@ -56,12 +56,14 @@
 
 		<!-- Allow user filter for specific title value -->
 		<section class="filterSearchBox">
-			<div><p>Searching for: {{ localityDisplay }} {{ categoryDisplay }} {{ collectionAreaDisplay }}</p></div>
+			<div>
+				<h4>Searching for: {{ localityDisplay }} {{ categoryDisplay }} {{ collectionAreaDisplay }}</h4>
+			</div>
 			<div><input type="text" placeholder="Filter Results" class="search-input" v-model="userSearch" /></div>
 			<div><button class="clear-button" @click="clear">Clear</button></div>
 		</section>
 		<hr class="bar">
-		
+
 		<p v-if="items == []">No results</p>
 
 		<section>
@@ -74,7 +76,7 @@
 							{{ item.displayTitle }}
 						</NuxtLink>
 					</p>
-					<p class="truncate">{{item.objectSummary}}</p>
+					<p class="truncate">{{ item.objectSummary }}</p>
 				</li>
 			</ul>
 		</section>
@@ -212,13 +214,13 @@ export default {
 /* Images Styling */
 
 .imageBox {
-	display:flex;
-	flex-direction: row;
+	display: flex;
+	flex-direction: column;
 }
 
 .imageContainer {
 	position: relative;
-	width: 50%;
+	width: 100%;
 }
 
 .image {
@@ -241,12 +243,12 @@ export default {
 	text-align: center;
 }
 
-.imageContainer:hover .image {
+.imageContainer.image {
 	opacity: 0.3;
 	cursor: pointer;
 }
 
-.imageContainer:hover .middle {
+.imageContainer .middle {
 	opacity: 1;
 	cursor: pointer;
 }
@@ -265,20 +267,20 @@ export default {
 	border-radius: 5px;
 	display: block;
 	text-align: center;
-	color:white;
+	color: white;
 	margin: 0 auto
 }
 
 .go-button:hover {
-  border: 2px solid red;
-  background-color: white;
-  color: red;
+	border: 2px solid red;
+	background-color: white;
+	color: red;
 }
 
 /* Filter and Search Set Styling */
 .filterSearchBox {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	justify-content: space-between;
 }
 
@@ -287,8 +289,6 @@ export default {
 	width: 200px;
 	height: 30px;
 	border-radius: 2px;
-	/* display:block;
-	margin: 0 right; */
 }
 
 /* Clear Button Styling */
@@ -299,27 +299,63 @@ export default {
 	border-radius: 5px;
 	display: block;
 	text-align: center;
-	color:black;
+	color: black;
 	margin: 0 auto
 }
 
 .clear-button:hover {
-  border: 2px solid blue;
-  background-color: white;
-  color: blue;
+	border: 2px solid blue;
+	background-color: white;
+	color: blue;
 }
 
 /* Return Styling */
-.list-group-item .pagelink{
+.list-group-item .pagelink {
 	color: #539844;
 }
 
 .truncate {
-  width: 800px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+	width: 300px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
+@media only screen and (min-width: 800px) {
+	.imageBox {
+		flex-direction: row;
+	}
 
+	.imageContainer {
+		width: 50%;
+	}
+
+	.imageContainer.image {
+		opacity: 0;
+		cursor: pointer;
+	}
+
+	.imageContainer .middle {
+		opacity: 0;
+		cursor: pointer;
+	}
+
+	.imageContainer:hover .image {
+		opacity: 0.3;
+		cursor: pointer;
+	}
+
+	.imageContainer:hover .middle {
+		opacity: 1;
+		cursor: pointer;
+	}
+
+	.truncate {
+		width: 800px;
+	}
+
+	.filterSearchBox {
+		flex-direction: row;
+	}
+}
 </style>

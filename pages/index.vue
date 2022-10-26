@@ -6,8 +6,8 @@
 				<SiteNavigation />
 			</header>
 			<section class="intro">
-				<h2>Explore a world full of possibilities</h2>
-				<h4>Explore and find what you're interested in</h4>
+				<h1>Explore a world full of possibilities</h1>
+				<h2>Explore and find what you're interested in</h2>
 				<hr class="bar">
 			</section>
 			<section>
@@ -51,15 +51,20 @@ h3 {
 	font-size: 4vw;
 }
 
+h4 {
+	font-size: 3.5vw;
+}
+
 p {
 	font-size: 3vw;
 }
 
 /* Intro styling  */
 .intro {
-	padding-top:20px;
-	text-align:center;
+	padding-top: 20px;
+	text-align: center;
 }
+
 .bar {
 	border-top: 1px solid #539844;
 }
@@ -78,6 +83,10 @@ p {
 
 	h3 {
 		font-size: 2.5vw;
+	}
+
+	h4 {
+		font-size: 2vw;
 	}
 
 	p {
