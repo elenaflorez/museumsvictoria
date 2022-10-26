@@ -95,7 +95,6 @@ p {
 
 	header {
 		min-height: 50px;
-		background: lightcyan;
 	}
 
 	footer {

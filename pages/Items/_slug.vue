@@ -9,15 +9,11 @@
 			
 			<!-- Item details -->
 			<section>
-				<h2>{{ item.displayTitle }}</h2>
-			</section>
-			<section>
+				<article><h2>{{ item.displayTitle }}</h2></article>
 				<article class="itemDescriptionBox">
 					<p class="itemDescription">Object Summary: {{ item.objectSummary }}</p>
 				</article>
-			</section>
 
-			<section>
 				<!-- Filter for related items -->
 				<article>
 					<p>Follow your interest</p>
@@ -73,12 +69,18 @@ export default {
 	},
 	methods: {
 		async getItems(input) {
+
+			// Convert input if History & Technology for UTF-8
+			if (input == '&category=History & Technology') {
+				input = '&category=history+%26+technology'
+			}
+			
 			// General API search URL
 			let apiURL = 'https://collections.museumsvictoria.com.au/api/search?recordtype=item&perpage=10' // can use recordtype, perpage, and page
 
 			// Add query data from page
 			this.searchURL = apiURL.concat(input)
-
+			console.log(this.searchURL)
 			//Fetch Data
 			let apiData = await fetch(this.searchURL)
 				.then((response) =>
