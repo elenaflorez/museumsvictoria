@@ -73,24 +73,24 @@ p {
 
 	/* DESKTOP TEXT STYLE */
 	h1 {
-		font-size: 4vw;
+		font-size: 3vw;
 		text-align: center;
 	}
 
 	h2 {
-		font-size: 3vw;
-	}
-
-	h3 {
-		font-size: 2.5vw;
-	}
-
-	h4 {
 		font-size: 2vw;
 	}
 
-	p {
+	h3 {
 		font-size: 1.5vw;
+	}
+
+	h4 {
+		font-size: 1vw;
+	}
+
+	p {
+		font-size: 1vw;
 	}
 
 	/* OTHER DESKTOP STYLE */

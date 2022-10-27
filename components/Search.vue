@@ -3,17 +3,21 @@
 
 		<!-- Map used for setting locality -->
 		<section>
-			<h2>First, select a part of the world</h2>
+			<h2>Are you interested in a part of the world?</h2>
+			<p>(No need to select all of the below before searching!)</p>
 			<div class="parent">
 				<img class="map" src="@/Images/Simple_world_map.png" />
 				<span @click="setLocality('Germany')" class="dot germany"></span>
+				<span @click="setLocality('Australia')" class="dot australia"></span>
+				<span @click="setLocality('Ghana')" class="dot ghana"></span>
+				<span @click="setLocality('Mexico')" class="dot mexico"></span>
 			</div>
 			<hr class="bar">
 		</section>
 
 		<!-- Section for setting category -->
 		<section>
-			<h2>Then, are you interested in any of these categories?</h2>
+			<h2>Are you interested in any of these categories?</h2>
 			<article class="imageBox">
 				<div class="imageContainer" @click="setCategory('First Peoples')">
 					<img src="@/Images/Indigenous Australian.png" alt="First Peoples" class="image">
@@ -207,8 +211,26 @@ export default {
 
 .germany {
 	position: absolute;
-	top: 20%;
-	left: 20%;
+	top: 21%;
+	left: 49%;
+}
+
+.australia {
+	position: absolute;
+	top: 72%;
+	left: 83%;
+}
+
+.ghana {
+	position: absolute;
+	top: 49%;
+	left: 47%;
+}
+
+.mexico {
+	position: absolute;
+	top: 40%;
+	left: 15%;
 }
 
 /* Images Styling */
